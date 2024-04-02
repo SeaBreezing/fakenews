@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 _author_ = "March_H"
-'''
-仅提供了关于MDFEND文本文件的dataloader，对于另一部分图像的特征提取还未添加
-'''
-
 import torch
 import torch.nn as nn
 import os
